@@ -1,26 +1,8 @@
-EMU OK genizy/emu@master cores=mgba
 FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@0036b012893efc8b2006f4c297f6da4ca374225d/Ultimate%20Mortal%20Kombat%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)/Ultimate%20Mortal%20Kombat%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).nds: curl: (22) The requested URL returned error: 404
 
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE ultimateassassin2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE ultimateassassin2: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@2e23d1934c73d2fb9c2f3f67128d9f16a56cc43c/ultimateassassin.swf -> assets/cdn/058cdb7f-ultimateassassin.swf
-BASE OK bubblfan/web-port@master/ultrakill -> ultrakill
-BASE REWRITE ultrakill
-FILE underneath: https://cdn.jsdelivr.net/gh/bessiegasbarro/Underneath@f287c82c06af11e629b748a07a954638a6a59a9e/under.js?OJYYB=629315190 -> assets/cdn/8a32752a-under.js
-BASE OK gn-math/assets@main/184 -> undertale
-BASE REWRITE undertale
-BASE OK bubbls/UGS-Assets@8874e6849ea73acaedd853ff61ea04d981fce7dd/unicycle hero -> unicycle-hero
-BASE REWRITE unicycle-hero
-FILE uno: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css -> assets/cdn/5c9e4317-style.css
-FILE uno: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/UnityProgress.js -> assets/cdn/fac31396-UnityProgress.js
-FILE uno: https://cdn.jsdelivr.net/gh/gertdoro/UnityPy@1ac828861e8585f162c58b3d93bf4463b7510d41/tools/libil2cpp_helper/Classic-Uno.js -> assets/cdn/992f365d-Classic-Uno.js
-FILE uno: https://cdn.jsdelivr.net/gh/gertdoro/UnityPy@1ac828861e8585f162c58b3d93bf4463b7510d41/tools/libil2cpp_helper/Classic-Uno.json -> assets/cdn/e6e80e0e-Classic-Uno.json
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE upgrade-complete-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE upgrade-complete-2: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@d62ba8b3552de509e2ab292bf2cb5f41bd9a6860/upgrade-completer-11028.swf -> assets/cdn/f3e423b8-upgrade-completer-11028.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE upgradecomplete: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE upgradecomplete: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@d62ba8b3552de509e2ab292bf2cb5f41bd9a6860/upgrade-complete-3955.swf -> assets/cdn/5ae7f6ef-upgrade-complete-3955.swf
